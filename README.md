@@ -23,7 +23,7 @@ The Sites for Scraping are:
 - Men Clothes from [Junaid Jamshed](https://www.junaidjamshed.com/mens.html).
 
 
-## Data from Scraping from Junaid Jamshed:
+## Data from Scraping of Junaid Jamshed:
 ```
  Junaid Jamshed website for scraping.
 ```
