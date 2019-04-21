@@ -28,3 +28,9 @@ The Sites for Scraping are:
  Junaid Jamshed website for scraping.
 ```
 ![](screenshots/data_csv.png)
+
+## Data from Scraping of Gul Ahmed:
+```
+ Gul Ahmed website for scraping.
+```
+![](screenshots/gul_ahmed_data.png)
