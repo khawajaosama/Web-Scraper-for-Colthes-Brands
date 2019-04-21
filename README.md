@@ -1,3 +1,4 @@
+![](screenshots/logo.jpg)
 # WEB SCRAPER FOR JUNAID JAMSHED
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Beautiful Soup is a Python library for pulling data out of HTML and XML files`
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.`
@@ -21,10 +22,9 @@ You can visit on this site for [Beautiful Soap Documentation](https://www.crummy
 The Sites for Scraping are:
 - Men Clothes from [Junaid Jamshed](https://www.junaidjamshed.com/mens.html).
 
-![](screenshots/logo.jpg)
 
 ## Data from Scraping from Junaid Jamshed:
 ```
  Junaid Jamshed website for scraping.
 ```
-![](data_csv.png)
+![](screenshots/data_csv.png)
